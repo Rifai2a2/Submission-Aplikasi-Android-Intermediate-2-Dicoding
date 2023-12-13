@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">This is the character introduction story of Donghua Battle Through The Heavens</string>
+    <string name="title_welcome_page">Welcome to BTTH Stories!</string>
+    <string name="title_signup_page">Complete your data below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">First enter your email and password</string>
+    <string name="title_login_page">Are you curious yet?</string>
+    <string name="name">Name</string>
+    <string name="message_main_page">Enjoy the story</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="error">Error</string>
+    <string name="desc_menu1">this is the description</string>
+    <string name="description">This is a detailed description</string>
+    <string name="languange">Languange</string>
+    <string name="tmbl_setting">language setting button</string>
+    <string name="tmbl_logout">exit button</string>
+    <string name="camera">Camera</string>
+    <string name="camera_x">CameraX</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Insert Image First</string>
+</resources>

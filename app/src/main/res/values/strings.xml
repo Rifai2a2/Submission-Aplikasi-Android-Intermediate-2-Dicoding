@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ini adalah cerita pengenalan karakter Donghua Battle Through The Heavens</string>
+    <string name="title_welcome_page">Selamat datang di Cerita BTTH!</string>
+    <string name="title_signup_page">Silakan Daftar terlebih dahulu ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu Email dan Password nya</string>
+    <string name="title_login_page">Sudah penasaran?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Menikmati ceritanya.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="error">error</string>
+    <string name="desc_menu1">ini deskripsi</string>
+    <string name="description">ini detail deskripsi</string>
+    <string name="languange">bahasa</string>
+    <string name="tmbl_setting">tombol pengaturan bahasa</string>
+    <string name="tmbl_logout">tombol keluar</string>
+    <string name="camera">Kamera</string>
+    <string name="camera_x">KameraX</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="empty_image_warning">Masukkan Gambar Dahulu</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="tmbl_maps">Tombol Maps</string>
+    <string name="maps">Maps</string>
+    <string name="retry">Coba Lagi</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/maps"
+        android:icon="@drawable/maps"
+        android:title="@string/maps"
+        android:contentDescription="@string/tmbl_maps"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/world"
+        android:title="@string/languange"
+        android:contentDescription="@string/tmbl_setting"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/shutdown"
+        android:title="@string/logout"
+        android:contentDescription="@string/tmbl_logout"
+        app:showAsAction="ifRoom"/>
+</menu>
