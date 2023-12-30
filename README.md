@@ -22,6 +22,8 @@ Here are some components that are applied in this project:
 - Parcelable
 - Repository and Injection
 - ViewModel and LiveData
+- Paging 3
+- Mockito
 
 Features that exist in this application:
 1. Authentication Page
