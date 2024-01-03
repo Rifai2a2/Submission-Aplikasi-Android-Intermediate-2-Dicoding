@@ -2,7 +2,7 @@
 
 This is submission 2 (final) of Learning Intermediate Android App Development at Dicoding
   
-  This application is made in order to graduate from the Course or class Learning Intermediate Android Apps Development at [Dicoding](https://www.dicoding.com/)  dan [Bangkit Academy 2023.](https://www.google.com](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
+  This application is made in order to graduate from the Course or class Learning Intermediate Android Apps Development at [Dicoding](https://www.dicoding.com/)  dan [Bangkit Academy 2023.](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
   
   <img src="https://github.com/Rifai2a2/SubmissionAkhirBelajarMembuatAplikasiAndroiddenganJetpackCompose/assets/129079560/46e9994f-74ad-4258-9ff7-c9990a1ece08" alt="Dicoding" width="150" height="50">   <img src="https://github.com/Rifai2a2/SubmissionAkhirBelajarMembuatAplikasiAndroiddenganJetpackCompose/assets/129079560/c5b23549-9355-4602-b4d7-a3d4f55f30ce" alt="Bangkit" width="150" height="50">    
        
